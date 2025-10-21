@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ruleset name="SortedLinkedList Library">
+    <description>PSR-12 coding standard for the SortedLinkedList library</description>
+    <rule ref="PSR12"/>
+    <file>src</file>
+    <file>tests</file>
+</ruleset>

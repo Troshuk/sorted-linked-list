@@ -1,0 +1,31 @@
+# Composer dependencies
+/vendor/
+/composer.lock
+
+# PHPUnit coverage reports
+/coverage/
+/phpunit.xml.cache
+/.phpunit.result.cache
+
+# PHP CS Fixer cache
+/.php-cs-fixer.cache
+
+# PHPStan cache
+/phpstan-cache/
+
+# IDE / Editor files
+.idea/
+*.iml
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Logs and temp files
+*.log
+/tmp/
+*.tmp
+
+# Build / artifacts (if any)
+/build/
+/dist/
